@@ -11,6 +11,6 @@ num10=int(input("Enter the tenth Number"))
 
 num=[num1, num2, num3, num4, num5, num6, num7, num8, num9, num10] #array
 
-num11=max(num) #create a new variable who is the biggest number
+num11=max(num) #create a new variable that is the biggest number
 
 print("The biggest Number is " , num11) #output
