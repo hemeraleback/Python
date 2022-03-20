@@ -1,5 +1,4 @@
-saving= int(0) 
-	
+saving = int(0) 
 price = int(input("Enter the price: "))
 	
 while saving < price:
