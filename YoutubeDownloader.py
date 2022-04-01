@@ -1,3 +1,4 @@
+#pip install pytube, or go to https://github.com/pytube/pytube.git
 from pytube import YouTube
 
 url = str(input("Enter the link: "))
