@@ -1,13 +1,11 @@
-saving= int(0) 
-	
+saving = int(0) 
 price = int(input("Enter the price: "))
 	
 while saving < price:
-
 	add = int(input("How many money do you want to add?: "))
-	saving += add;
+	saving += add
 
-rest = saving - price;
+rest = saving - price
 
 if rest == 0:
 	print("Now you can buy it")
