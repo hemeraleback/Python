@@ -6,5 +6,5 @@ rest=float(money-cost)
 
 if cost>money:
     print("You don't have enough money, you are missing ", poor, " euros ")
-else :
+else:
     print("You can buy this product, and you are missing ", rest, "euros")
